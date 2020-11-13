@@ -1,9 +1,11 @@
-Privacy Policy -
-App developer use Google Admob for advertising purposes and Google Analytics for improving our apps, Google Analytics collects data as per their Policy, which is mentioned in thier website.
-Developer uses the services provided by the Google Analytics and Google Admob to collect and process data.
+Privacy Policy - 
+
+App developer use Google Admob for advertising purposes and Google Analytics for improving our apps, Google Analytics collects data as per their Policy, which is mentioned in thier website. 
+Developer uses the services provided by the Google Analytics and Google Admob to collect and process data. 
 Google Admob and Google Analytics are the products of Alphabet Inc.(Google) and the policy changes in their products will be applied in the developers apps.
-Developer is not responsible for for changes in policy by the Google Analytics and Google Admob.
-Users uses the application at its sole risk and Developer is not responsible for any losses and damages of any kind. Application is provided as is and as available without warranty of any kind. 
+Developer is not responsible for for changes in policy by the Google Analytics and Google Admob. 
+Users uses the application at its sole risk and Developer is not responsible for any losses and damages of any kind. Application is provided as is and as available without warranty of any kind.
 You understand and agree that the privacy policy may be revised from time to time and by continuing to use this application the user agrees to the revised privacy policy at that time.
-Privacy policy may change by the developer at any time and without any consent from anyone. 
+Privacy policy may change by the developer at any time and without any consent from anyone.
+
 
