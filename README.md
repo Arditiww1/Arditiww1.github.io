@@ -1,4 +1,4 @@
 # Mechanical_Engineering_Calculator
 Website for Mechanical Engineering Calculator
-\nArditiww1.github.io/DisclaimerWithTermsAndCondition.txt
+[Disclaimer with Terms and Condition link](Arditiww1.github.io/DisclaimerWithTermsAndCondition.txt)
 
