@@ -1,0 +1,62 @@
+Terms of Use / Terms and Condition
+
+Welcome to this application provided by ArditiwwOne. These Terms of Use apply to all users of the App. By using the App you accept these terms.
+
+User license and intellectual property rights
+All intellectual property rights in and to the contents of the App (including but not limited to any software, logos and similar marks) are the intellectual property of ArditiwwOne, its affiliates and/or licensors. 
+Except for what is expressly stated herein, you are not granted any rights in or to such intellectual property rights.
+This mobile app is intended for informational purpose only. Professionals should exercise their own judgement when using the mobile app in conjunction with the design.
+
+The app stores and processes personal data that you have provided to us, in order to provide our Service. It’s your responsibility to keep your phone and access to the app secure. We therefore recommend that you do not jailbreak or root your phone, which is the process of removing software restrictions and limitations imposed by the official operating system of your device. It could make your phone vulnerable to malware/viruses/malicious programs, compromise your phone’s security features and it could mean that the app won’t work properly or at all.
+
+The app may use third party services that declare their own Terms and Conditions.
+Link to Terms and Conditions of third party service providers used by the app
+Google Play Services -https://policies.google.com/privacy?hl=en-US
+AdMob - https://support.google.com/admob/answer/6128543?hl=en
+Google Analytics for Firebase - https://policies.google.com/privacy?hl=en-US and https://support.google.com/analytics/answer/4597324?hl=en
+
+You should be aware that there are certain things that ArditiwwOne will not take responsibility for. Certain functions of the app will require the app to have an active internet connection. The connection can be Wi-Fi, or provided by your mobile network provider, but ArditiwwOne cannot take responsibility for the app not working at full functionality if you don’t have access to Wi-Fi, and you don’t have any of your data allowance left.
+
+At some point, we may wish to update the app. The app is currently available on Android – the requirements for system(and for any additional systems we decide to extend the availability of the app to) may change, and you’ll need to download the updates if you want to keep using the app. ArditiwwOne does not promise that it will always update the app so that it is relevant to you and/or works with the Android version that you have installed on your device. However, you promise to always accept updates to the application when offered to you.
+
+We grant you a limited, non-exclusive, non-transferrable, non-sub licensable, revocable licence to access and use the  App in accordance with these Terms of Use and the functions provided for in the  App, on any device on which we have made the App available.
+Any use of the  App in any other manner is prohibited, including, without limitation, copying, transferring or distributing the App or any content displayed in the App.
+Unless allowed by applicable law, you may not decompile, reverse engineer, attempt to derive the source code of, modify or create derivative works of the App or its content.
+
+If you’re using the app outside of an area with Wi-Fi, you should remember that your terms of the agreement with your mobile network provider will still apply. As a result, you may be charged by your mobile provider for the cost of data for the duration of the connection while accessing the app, or other third party charges. In using the app, you’re accepting responsibility for any such charges, including roaming data charges if you use the app outside of your home territory (i.e. region or country) without turning off data roaming. If you are not the bill payer for the device on which you’re using the app, please be aware that we assume that you have received permission from the bill payer for using the app.
+
+Along the same lines, ArditiwwOne cannot always take responsibility for the way you use the app i.e. You need to make sure that your device stays charged – if it runs out of battery and you can’t turn it on to avail the Service, Arditiwwone cannot accept responsibility.
+
+
+Non-acceptable use: 
+You may under no circumstances use the App in a way that would be in conflict with good practice or applicable laws or regulations, including but not limited to laws on intellectual property rights.
+Actions that may damage or interfere with our technical infrastructure or other customers use of the App, in any case or circumstance, are prohibited.
+ 
+Disclaimer of warranties: The  App is provided "as is" and you use the App at your own risk. We do not guarantee that it will be uninterrupted, timely, secure, error-free or any such things, and we do not guarantee the accuracy of any operations which may be executed in the App, including but not limited to calculations.
+To the fullest extent allowable under applicable law, we disclaim all warranties and conditions, whether express or implied, including any warranties or conditionsfor any merchantability, fitness for a particular purpose or non-infringement.
+
+No liability
+This  App is being provided free of charge. Accordingly, you agree that, to the fullest extent allowable under applicable law, we shall have no liability arising from or based on your use of the  App. In no event shall we be liable to you for any indirect, special, incidental or consequential damages, including, without limitation, third party claims, loss of goodwill, lost profits, loss or corruption of information or device failure or malfunction.
+In case your use of the App causes or has caused you costs or losses, your sole remedy is to cease your use of the App, by deleting it from all devices on which it has been installed.
+In no event (except if provided otherwise in mandatory law) shall our aggregate liability, whether in contract, tort (including negligence) or other theory, arising out of your use of or inability to use the App exceed 0.00000001 Indian Rupees (INR).
+
+Indemnity
+At our request, you agree to defend, indemnify, and hold us, our employees, contractors, and directors harmless from any and all claims, damages, costs, penalties and expenses (including attorney’s fees) that arise from your use of the App in violation of these Terms of Use or in violation of any rights of a third party.
+We reserve the right to assume the exclusive defence and control of any matter otherwise subject to indemnification by you, in which event you will co-operate in asserting any available defences.
+
+Termination
+We reserve the right, in our sole discretion and at any time without notice or liability, to change, suspend or discontinue the provision of the App and/or to suspend or terminate your rights under these Terms of Use to access and use the App.
+You may, in your sole discretion and at any time without notice or liability, terminate your rights under these Terms of Use, by deleting the App from all devices on which it has been installed.
+Any termination of these Terms of Use will also immediately terminate the licence granted to you hereunder.
+
+Changes
+We may make modifications, deletions and/or additions to these Terms of Use / Terms and Condition("Changes") at any time without any pre announcement. Changes will be effective immediately when you use the app.
+ 
+Law and jurisdiction
+These Terms of Use will be governed by and construed in accordance with Indian law, without regard to its choice- or conflicts of law principles. Any disputes relating to these Terms of Use will be subject to the exclusive jurisdiction of the courts of India.
+
+Assignment
+ArditiwwOne may assign its rights and obligations under these Terms of Use, in whole or in part, to any third party at any time without notice. You may not assign your rights and duties hereunder, in whole or in part, to any third party without the prior written consent of ArditiwwOne.
+
+Contact us
+If you have any questions or suggestions about my Terms and Conditions, do not hesitate to contact me at baba.babakagyan@gmail.com.
