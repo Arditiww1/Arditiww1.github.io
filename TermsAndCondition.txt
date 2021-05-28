@@ -35,7 +35,7 @@ Disclaimer of warranties: The  App is provided "as is" and you use the App at yo
 To the fullest extent allowable under applicable law, we disclaim all warranties and conditions, whether express or implied, including any warranties or conditionsfor any merchantability, fitness for a particular purpose or non-infringement.
 
 No liability
-This  App is being provided free of charge. Accordingly, you agree that, to the fullest extent allowable under applicable law, we shall have no liability arising from or based on your use of the  App. In no event shall we be liable to you for any indirect, special, incidental or consequential damages, including, without limitation, third party claims, loss of goodwill, lost profits, loss or corruption of information or device failure or malfunction.
+Accordingly, you agree that, to the fullest extent allowable under applicable law, we shall have no liability arising from or based on your use of the  App. In no event shall we be liable to you for any indirect, special, incidental or consequential damages, including, without limitation, third party claims, loss of goodwill, lost profits, loss or corruption of information or device failure or malfunction.
 In case your use of the App causes or has caused you costs or losses, your sole remedy is to cease your use of the App, by deleting it from all devices on which it has been installed.
 In no event (except if provided otherwise in mandatory law) shall our aggregate liability, whether in contract, tort (including negligence) or other theory, arising out of your use of or inability to use the App exceed 0.00000001 Indian Rupees (INR).
 
