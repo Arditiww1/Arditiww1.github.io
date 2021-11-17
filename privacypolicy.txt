@@ -55,6 +55,9 @@ These Services do not address anyone under the age of 13. I do not knowingly col
 
 If end user (you) do not agree to Privacy Policy and Terms and Condition of this application, end user should uninstall this application immediately and clear residual content or data of this application remained on their device, where the app was earlier installed. By uninstalling you revoke your consent.
 
+Data Deletion Request
+
+To delete the data collected or shared, the app users must send a mail to baba.babakagyan@gmail.com requesting the data which was collected and shared to be deleted, the request can be approved or rejected by the app developer's discretion. The app developer is also not liable to respond or to act upon each and every data deletion email request.
 
 Changes to This Privacy Policy
 
@@ -64,5 +67,5 @@ Offline version privacy policy that is in app may be updated with the updates fo
 
 Contact Us
 
-If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at baba.babakagyan@gmail.com.
+If you have any request, questions or suggestions about my Privacy Policy or app, do not hesitate to contact me at baba.babakagyan@gmail.com.
 This policy is effective as of 2020-11-26
