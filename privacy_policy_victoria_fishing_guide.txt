@@ -62,6 +62,10 @@ I may update our Privacy Policy from time to time. Thus, you are advised to revi
 You should check the website version of Privacy policy for updated Policy before the in app offline version of Privacy Policy and Terms and condition as website version would be updated at earliest.
 Offline version privacy policy that is in app may be updated with the updates for the application.
 
+Data Deletion Request
+
+To delete the data collected or shared, the app users must send a mail to baba.babakagyan@gmail.com requesting the data which was collected and shared to be deleted, the request can be approved or rejected by the app developer's discretion. The app developer is also not liable to respond or to act upon each and every data deletion email request.
+
 Contact Us
 
 If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at baba.babakagyan@gmail.com.
